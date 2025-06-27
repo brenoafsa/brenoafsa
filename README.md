@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=brenoafsa&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoafsa&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
