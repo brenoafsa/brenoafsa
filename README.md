@@ -1,13 +1,16 @@
 ## Prazer! Meu nome é Breno Augusto Ferreira
 
-<div>
-  <a href="https://github.com/brenoafsa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoafsa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoafsa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoafsa&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoafsa&layout=compact&theme=tokyonight"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
