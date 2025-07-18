@@ -1,4 +1,4 @@
-## Prazer! Meu nome é Breno Augusto Ferreira
+## Prazer! Meu nome é Breno Augusto Ferreira.
 
 <table>
   <tr>
