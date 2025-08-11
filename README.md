@@ -9,11 +9,6 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoafsa&layout=compact&theme=tokyonight&hide_border=true"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brenoafsa&theme=github_dark"/>
-    </td>
-  </tr>
 </table>
 
 
