@@ -3,6 +3,7 @@
 <table>
   <tr>
     <td>
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brenoafsa)](https://github.com/ashutosh00710/github-readme-activity-graph)
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoafsa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true"/>
     </td>
     <td>
