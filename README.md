@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=brenoafsa"/>
+      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=brenoafsa&theme=react-dark"/>
     </td>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoafsa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
