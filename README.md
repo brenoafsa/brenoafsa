@@ -31,6 +31,7 @@
 ## 🧰 Ferramentas de Trabalho:
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-%23FF4F81.svg?style=for-the-badge&logo=lovable&logoColor=white)
 
 ## 📫 Entre em contato comigo
 <div> 
